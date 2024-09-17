@@ -1,6 +1,6 @@
 import qrcode
 
-webpage_url = "./localhost_link.txt"
+webpage_url = "https://sign-mate-links-qr-code.vercel.app/"
 
 qr = qrcode.QRCode(
 
